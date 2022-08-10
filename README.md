@@ -47,6 +47,7 @@ ___
 [![behance](https://img.shields.io/badge/-behance-090909?style=for-the-badge&logo=behance&logoColor=27A0D9)](https://www.behance.net/potroshok)
 [![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=27A0D9)](https://vk.com/taco_with_pepper_and_cheese)
 [![Inst](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=27A0D9)](https://vk.com/taco_with_pepper_and_cheese)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=instagram&logoColor=27A0D9)](https://twitter.com/chelovek_x_x?s=09)
 <br> <br> <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKarta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
