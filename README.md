@@ -1,10 +1,4 @@
-Hello, my name is Anton!
-welcome me /hub.
-I aspire to be a good data analyst.
-here I'm dabbling with all sorts of data.
-Pampering = progress.
-
-<!---
-AntonKarta/AntonKarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# <b>Карташов Антон</b>
+![](https://komarev.com/ghpvc/?username=AntonKarta)
+## <b>Аналитик данных</b>
+[<img align="left" alt="taco_with_pepper_and_cheese | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
